@@ -22,9 +22,11 @@ progressBars.forEach((progressBar) => {
 });
 
 var typed = new Typed("#element", {
-  strings: ["Web Developer", "Graphic Designer", "Web Designer"],
-  typeSpeed: 50,
-  backSpeed: 50,
+  strings: [  "Java Full Stack Developer",
+  "Frontend - Backend Developer",
+  "Problem Solver"],
+  typeSpeed: 60,
+  backSpeed: 60,
   loop: true,
   showCursor: false,
 });
